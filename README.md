@@ -27,6 +27,7 @@
 2. **Run the Install Script:**
 
     ```sh
+    chmod +x install_rc.sh
     sudo ./install_rc.sh
     ```
 
